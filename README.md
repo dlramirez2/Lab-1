@@ -1,2 +1,2 @@
 # Lab-1
-RECURSION LAB C
+Recursion Lab C
